@@ -1,23 +1,15 @@
 # Executando o projeto
 
-## Instale o pnpm
-
-Este projeto faz uso do gerenciador pnpm, se não o tiver, instale-o:
-
-```shell
-npm i -g pnpm
-```
-
 ## Instale as dependências
 
 ```shell
-pnpm install
+npm i
 ```
 
 ## Rodando o projeto
 
 ```shell
-pnpm dev
+npm run dev
 ```
 
 Acesse o site pelo endereço [localhost:3000](http://localhost:3000)
